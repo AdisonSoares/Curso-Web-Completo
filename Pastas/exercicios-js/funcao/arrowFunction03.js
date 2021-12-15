@@ -18,3 +18,4 @@ comparaComThisArrow(obj)
 comparaComThisArrow(module.exports)
 
 
+
