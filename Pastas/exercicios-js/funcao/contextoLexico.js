@@ -9,4 +9,5 @@ function exec(){
     minhaFuncao()
 }
 
+//A função procurao contexto aberto para atribuir a valor
 exec()
