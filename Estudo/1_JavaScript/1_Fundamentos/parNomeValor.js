@@ -1,6 +1,6 @@
 //par Nome/Valor
 
-const saudacao = "Eeee aiiiii"//Contexto lexico 1
+const saudacao = "Como vai?"//Contexto lexico 1
 
 function exec() {
     const saudacao = "Olá dentro da função"//Contexto lexico 2
