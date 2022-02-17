@@ -6,11 +6,11 @@
 function funcao01() {
 }
 
-/*Armarzenar função em uma variavel*/
+/*Armazenar função em uma variavel*/
 const funcao02 = function () {
 }
 
-/*Armarzenar função em um array*/
+/*Armazenar função em um array*/
 const array = [function (a, b) { return a + b }, funcao01, funcao02]
 console.log(array[0](2, 3))
 
@@ -19,7 +19,7 @@ const objeto = {}
 objeto.falar = function () { return `Olá!` }
 console.log(objeto.falar())
 
-/*Passar função como paramatro*/
+/*Passar função como parametro*/
 function run(funcao03) {
     funcao03()
 }
