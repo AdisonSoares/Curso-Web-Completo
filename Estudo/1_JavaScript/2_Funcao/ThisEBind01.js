@@ -6,7 +6,7 @@ const pessoa = {
 }
 pessoa.falar()
 
-/*Conflito entre os paradigmas funcionario e orientado a objeto*/
+/*Conflito entre os paradigmas funcional e orientado a objeto*/
 const falar = pessoa.falar
 falar()
 
