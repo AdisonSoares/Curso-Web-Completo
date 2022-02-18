@@ -2,7 +2,7 @@
 ## Prática na programação web
 </br>
 
-### APRESENTAÇÃO:
+### APRESENTAÇÃO
 
 - Curso da plataforma Udemy com duração de 97 horas, ministrado pelo professor Leonardo
 Moura Leitao que faz parte da Cod3r Cursos Online.</br>
@@ -11,7 +11,7 @@ web, incluindo o ensino de três frameworks que são o Angular, React e VUE.</br
 - Durante o curso são desenvolvidos projetos e desafios para consolidar o conhecimento
 nas tecnologias de frontend e backend.</br>
 
-### CONTEÚDOS TRABALHADOS:
+### CONTEÚDOS TRABALHADOS
 
 ### De forma geral os tópicos abordados são:</br>
 
