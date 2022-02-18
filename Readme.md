@@ -1,5 +1,5 @@
-# Curso Web Completo
-## Prática na programação web</br>
+# Curso Web Completo - Prática na programação web</br>
+
 
 
 ### APRESENTAÇÃO
