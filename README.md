@@ -1,6 +1,6 @@
 # CursoWebCompleto
-## Prática na programação web
-</br>
+## Prática na programação web</br>
+
 
 ### APRESENTAÇÃO
 
@@ -9,11 +9,9 @@ Moura Leitao que faz parte da Cod3r Cursos Online.</br>
 - Sua proposta é ensinar as principais bases para uma boa construçao de aplicacoes
 web, incluindo o ensino de três frameworks que são o Angular, React e VUE.</br>
 - Durante o curso são desenvolvidos projetos e desafios para consolidar o conhecimento
-nas tecnologias de frontend e backend.</br>
+nas tecnologias de frontend e backend.</br></br>
 
-### CONTEÚDOS TRABALHADOS
-
-### De forma geral os tópicos abordados são:</br>
+### CONTEÚDOS ABORDADOS
 
  - Lógica de programação</br>
  - JavaScript</br>
