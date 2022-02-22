@@ -1,4 +1,6 @@
 /*
+EXEMPLO APENAS DIDÁTICO, NÃO É EXECUTÁVEL.
+
 Antes do paradigma orientado a objetos existia o paradigma
 procedural (função, procedimento).
 
