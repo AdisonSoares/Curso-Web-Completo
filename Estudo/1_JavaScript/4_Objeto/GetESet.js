@@ -1,4 +1,4 @@
-/*Umas das formas de se ter encapsulamento em um codigo é criar atributos
+/*Umas das formas de ter encapsulamento em um codigo é criar atributos
 privados e ter métodos de alteração e leitura desses atributos de forma controlada
 
 Esses atributos controladores são os Get(ler) e Set(Alterar).
