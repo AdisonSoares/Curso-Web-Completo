@@ -17,7 +17,13 @@ console.log()
 console.log(aula2)
 console.log()
 
-//Simulando o operador new
+/*Simulando o operador new
+Como o objetivo é simular o new e não usa-lo,
+usa-se anotação literal de objeto __proto__.
+O prototipo do objeto criado deve apontar para funçao.prototype(f.prototype).
+Depois chama-se a função "f" no parametro e chamar a função apply desse parametro.
+O 3 pontos do segundo parametro aponta um conjunto de array "...parametros".
+No fim retorna o objeto criado.*/
 function novo(f,...parametros){
     const obj = {}
     obj.__proto__ = f.prototype
