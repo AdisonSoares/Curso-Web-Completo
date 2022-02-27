@@ -1,3 +1,5 @@
+/*Teste para saber o valor de cada atributo*/
+
 let a = 3//arquivo local
 global.b = 123
 
