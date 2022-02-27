@@ -1,5 +1,5 @@
 console.log(7 / 0)//Resultado infinito
-console.log("10" / 2)//Em JS não dá problema
+console.log("10" / 2)//Em JS não é problema
 console.log("3"+2)//Vai concatenar pois o String tem preferência
 console.log("10.2" / 2)//Em JS entende o 10.2 como número
 console.log("10,2" / 2)//Em JS não entende o 10,2 como número - Nan(Not a Number)
