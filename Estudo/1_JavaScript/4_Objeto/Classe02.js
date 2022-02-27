@@ -1,5 +1,4 @@
-/*
-Exemplos de classes.
+/*Exemplos de classes.
 Todas as classes são um tipo de função.
 A herança funciona em classes pois são uma forma diferente
 de se escrever uma função*/
