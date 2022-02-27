@@ -1,5 +1,5 @@
 /*Quando colocamos duas exclamações antes de uma declaração
-**transformamos ela em boleano "!!".*/
+**transformamos ela em boleano "!!", podendo ser usado para testes lógicos.*/
 
 function compras(trabalho1, trabalho2){
     const comprarSorvete = trabalho1 || trabalho2
