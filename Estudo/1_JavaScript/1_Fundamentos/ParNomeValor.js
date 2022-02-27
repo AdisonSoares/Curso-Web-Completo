@@ -1,4 +1,4 @@
-//par Nome/Valor
+/*par Nome/Valor*/
 
 const saudacao = "Como vai?"//Contexto lexico 1
 
