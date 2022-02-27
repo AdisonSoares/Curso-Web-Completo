@@ -1,4 +1,4 @@
-/*Quando não se atribui nada à uma variável, depois de
+/*Quando não se atribui nada para uma variável, depois de
 ** cria-la,por padrão, o tipo dela é udefined "não definido".
 **Quando se coloca um valor nulo à uma variável ela não aponta
 **para local nenhum da memória e não existe valor.
