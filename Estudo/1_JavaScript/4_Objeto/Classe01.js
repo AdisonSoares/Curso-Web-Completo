@@ -2,7 +2,7 @@
 Todas as classes são um tipo de função.*/
 
 class Lancamento {
-    //Parametros da função
+    //Parametros da função - Função construtora
     constructor(nome = 'Generico', valor = 0) {
         this.nome = nome
         this.valor = valor
@@ -10,7 +10,7 @@ class Lancamento {
 }
 
 class CicloFinanceiro {
-    //Parametros da função
+    //Parametros da função - Função construtora
     constructor(mes, ano) {
         this.mes = mes
         this.ano = ano
