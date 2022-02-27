@@ -1,5 +1,4 @@
-/*
-O objeto é uma coleção dinamica de pares chave/valor
+/* O objeto é uma coleção dinamica de pares chave/valor
 Em JS os objetos são uma coleção dinamica podem ser acrescentados */
 
 //Forma de criar objetos
