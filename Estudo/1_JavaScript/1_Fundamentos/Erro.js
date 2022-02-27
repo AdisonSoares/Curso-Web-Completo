@@ -1,3 +1,5 @@
+/*Uso de try catch para tratamento de erros*/
+
 function tratarErroELancar(erro){
     throw new Error("Erro detectado")
     //throw significa lançar
