@@ -1,6 +1,6 @@
 /*Uma variável pode ter diferentes tipos de valores,
 quer dizer que JS tem tipagem fraca.
-Não seria bom usar nomes genéricos ou siglas para variáveis exemplo
+Não seria bom usar nomes genéricos ou siglas para variáveis um exemplo
 seria uma variável de nome número ou valor ou prp.
 Prefira códigos claros do que comentários.*/
 
