@@ -1,4 +1,4 @@
-/*Em via de regra o melhor é usar o estritamente igual"==="
+/*Em via de regra o melhor é usar o estritamente igual "==="
 **pois, pode haver dois valores iguais mas com tipos diferentes.*/
 
 console.log("01)", "1" ==1)//Não compara o tipo e sim o valor
