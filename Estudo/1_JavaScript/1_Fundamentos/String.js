@@ -2,7 +2,7 @@
 **ou seja, a letra r.
 **Apesar de ser colocado um código com "erro", inclusive do ponto de vista
 **de outras linguagens, dificilmente vai parar a execução, no exemplo 
-**do charat(5), não existe caracter na posição 5 mas o sistema
+**do charAt(5), não existe caracter na posição 5 mas o sistema
 **apenas apresenta um resultado vazio.
 **A função charCodeAt (3) busca o caracter referenciado na variável escola
 ** que está na posição 3 e retorna o correspondente a ele de acordo com a 
