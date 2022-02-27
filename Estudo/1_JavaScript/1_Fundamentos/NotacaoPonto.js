@@ -1,3 +1,5 @@
+/*Uso prático da notação ponto para fazer ligação aos atributos de objetos e funções*/
+
 console.log(typeof console)
 console.log(Math.ceil(6.1))
 
