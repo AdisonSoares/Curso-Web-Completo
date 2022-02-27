@@ -35,7 +35,6 @@ Exemplo: O fox É UM carro; O sapato É UM calçado....
 Uma tendência de arquitetura muito utilizada é a priorização do uso de composição ao invés de herança.
 */
 
-
 //Procedural - Função que processa valores
 processamento(valor1, valor2, valor3)
 
