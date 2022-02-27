@@ -13,7 +13,7 @@ peso1 = 1.1//Falso para inteiro
 console.log(Number.isInteger(peso1))
 console.log()
 
-//Outro exemplo
+//Exemplo
 const av01 = 9.871
 const av02 = 6.871
 
