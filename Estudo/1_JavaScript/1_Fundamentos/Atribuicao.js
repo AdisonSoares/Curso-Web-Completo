@@ -1,3 +1,5 @@
+/*Tipos de atribuições*/
+
 //Atribuição normal
 const a = 7
 let b = 3
