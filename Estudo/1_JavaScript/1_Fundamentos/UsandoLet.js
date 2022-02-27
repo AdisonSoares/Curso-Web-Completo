@@ -1,6 +1,6 @@
 /*O tipo Let, diferente do tipo Var, reconhece seu escopo dentro de um
 **bloco de códico, chaves, então não torna um elemento global, mostrando
-**o conteúdo apenas dentro do bloco.*/
+**o conteúdo apenas dentro do bloco. */
 
 var numero1 = 1
 {
