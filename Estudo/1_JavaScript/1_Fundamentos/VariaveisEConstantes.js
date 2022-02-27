@@ -1,6 +1,6 @@
 /*Usar mais a declaração de variável let, pois
-é mais moderna. 
-Uma constante não pode ter outra atribuição de valores.*/
+é mais moderna. Uma constante não pode ter
+outra atribuição de valores.*/
 
 var a = 3
 let b = 4
