@@ -1,4 +1,4 @@
-/*Pode-se inverter o valor lógico de uma afirmação
+/*Pode-se inverter o valor lógico de uma afirmação,
 **colocando antes dela um ponto de exclamação !, caso
 **sejam colocadas duas vezes ela mostrará o valor
 **lógico original.*/
