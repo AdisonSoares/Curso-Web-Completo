@@ -28,7 +28,7 @@ nas tecnologias de frontend e backend.</br></br>
  - Next</br>
  - VueJS</br>
  - Angular 9</br>
- - Banco de Dados Relacional e Não Relacional</br>
+ - Banco Relacional e Não Relacional</br>
  - Express</br>
 
 <h4 align="center"> 
